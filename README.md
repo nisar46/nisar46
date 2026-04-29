@@ -1,39 +1,48 @@
-# Hi there, I'm Nisar. 👋
-## 🏥 I Turn Hospital Chaos into Clean Code.
+# Hi, I'm Nisar Ahmed 👋
+## 🏛️ Clinical Solutions Architect | Bridging Clinical Reality & Engineering
 
-![Banner](https://img.shields.io/badge/Status-Building_India's_Digital_Health_Backbone-008080?style=for-the-badge)
+![Banner](https://shields.io)
 
-I am not your typical developer. I spent **5 years managing Hospital Operations** before writing a single line of code. I know exactly how data fails in the real world, and I build systems to fix it.
+I am a **Domain-First Architect**. With 13+ years of clinical operations experience (Ex-Cloudnine), I have transitioned into building the technical frameworks that run modern healthcare. I don't just write code; I architect **High-Integrity Systems** that solve the "Data Fragmentation" crisis in real-world clinical environments.
 
 ---
 
-### 🚀 Featured Work (The "Must Sees")
+### 🏛️ Architectural Portfolio (The Proof of Logic)
 
-| **Project** | **Role** | **Impact** |
+
+| **System** | **Design Goal** | **Impact** |
 | :--- | :--- | :--- |
-| **[OmniIngest ABDM 2.0](https://github.com/nisar46/OmniIngest-ABDM-2.0_Phase_0.1)** | **Architect** | The "Safety Rails" for clinical data. Parses PDFs/CSVs into FHIR-compliant bundles for India's National Health Stack. |
-| **[5-Year Code Journey](https://github.com/nisar46/Healthcare-Data-Analysis-Journey)** | **Author** | A documented timeline of my evolution from **Operations Manager** to **Health-Tech Architect**. |
+| **[OmniIngest Engine](https://github.com/nisar46/OmniIngest-ABDM-2.0_Phase_0.1)** | **Format-Agnostic Ingestion** | Transforming fragmented clinical records into **HL7 FHIR R5** bundles and **Hardened 7-Pillar SQL Vaults**. |
+| **[Clinical Research Archive](https://github.com/nisar46/Healthcare-Data-Analysis-Journey)** | **Knowledge Governance** | A 5-year technical documentation of hospital workflows, ABDM logic, and interoperability design patterns. |
 
 ---
 
-### 🛠️ The "Hospital-Hardened" Stack
-I don't just use tools; I use tools that survive 24/7 clinical environments.
+### 🛠️ The "Techno-Legal" Stack
+I architect systems that are built for **Zero Data-Loss** and **100% Regulatory Compliance**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![FHIR](https://img.shields.io/badge/HL7_FHIR-FLAME?style=for-the-badge&logo=fire&logoColor=white)
-![ABDM](https://img.shields.io/badge/Govt_ABDM_Compliant-Success?style=for-the-badge&logo=search&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://shields.io)
+![FHIR](https://shields.io)
+![DPDP](https://shields.io)
+![Azure](https://shields.io)
 
 ---
 
-### 📈 The Stats
+### 🏛️ My Design Philosophy: "Privacy-by-Design"
+*   **Data Integrity:** Moving fragmented "Dark Data" into secure, queryable standards (ABDM).
+*   **Governance:** Implementing **PII Purge logic** and cryptographic shredding as per India's **DPDP Act**.
+*   **Interoperability:** Designing systems that allow rural clinics to talk to global pharma registries.
+
+---
+
+### 📊 Engineering Pulse
 ![Nisar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisar46&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-### 💬 Connect with a Domain Expert
-I bridge the gap between **Doctors** (who hate bad software) and **Engineers** (who don't understand hospitals).
+### 💬 Let's Architect the Future of Health
+I bridge the gap between **Clinical Reality** and **Digital Transformation**.
 
-*   **Focus:** Digital Health Interoperability (Unified Health Interface)
-*   **Mission:** Zero Data-Loss Governance.
+*   **Location:** Bangalore, India
+*   **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3]
+*   **Email:** nisarr.aahmed@gmail.com
