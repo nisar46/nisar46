@@ -18,13 +18,16 @@ I am a **Domain-First Architect**. With 13+ years of clinical operations experie
 ---
 
 ### 🛠️ The "Techno-Legal" Stack
-I architect systems that are built for **Zero Data-Loss** and **100% Regulatory Compliance**.
+I architect systems built for **Zero Data-Loss** and **100% Regulatory Compliance**.
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![FHIR](https://shields.io)
-![DPDP](https://shields.io)
-![Azure](https://shields.io)
+
+| Category | Skillset |
+| :--- | :--- |
+| **Languages** | Python (Clinical Logic), SQL (Data Hardening) |
+| **Standards** | HL7 FHIR R5, ABDM 2.0, HIPAA |
+| **Governance** | DPDP Act (PII Purge & Key Shredding) |
+| **Cloud** | Microsoft Azure, AWS (Infrastructure Logic) |
+
 
 
 
