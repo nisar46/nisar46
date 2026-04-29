@@ -26,6 +26,7 @@ I architect systems that are built for **Zero Data-Loss** and **100% Regulatory 
 ![DPDP](https://shields.io)
 ![Azure](https://shields.io)
 
+
 ---
 
 ### 🏛️ My Design Philosophy: "Privacy-by-Design"
@@ -44,5 +45,5 @@ I architect systems that are built for **Zero Data-Loss** and **100% Regulatory 
 I bridge the gap between **Clinical Reality** and **Digital Transformation**.
 
 *   **Location:** Bangalore, India
-*   **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3]
+*   *   **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3](https://linkedin.com)
 *   **Email:** nisarr.aahmed@gmail.com
