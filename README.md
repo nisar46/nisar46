@@ -20,11 +20,14 @@ I am a **Domain-First Architect**. With 13+ years of clinical operations experie
 ### 🛠️ The "Techno-Legal" Stack
 I architect systems that are built for **Zero Data-Loss** and **100% Regulatory Compliance**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://shields.io)
-![FHIR](https://shields.io)
-![DPDP](https://shields.io)
-![Azure](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
 
 
 ---
