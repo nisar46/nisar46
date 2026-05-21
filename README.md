@@ -1,54 +1,23 @@
 # Hi, I'm Nisar Ahmed 👋
+
 ## 🏛️ Clinical Solutions Architect | Bridging Clinical Reality & Engineering
 
-![Banner](https://shields.io)
+![Banner](Banner)
 
 I am a **Domain-First Architect**. With 13+ years of clinical operations experience (Ex-Cloudnine), I have transitioned into building the technical frameworks that run modern healthcare. I don't just write code; I architect **High-Integrity Systems** that solve the "Data Fragmentation" crisis in real-world clinical environments.
 
 ---
 
-### 🏛️ Architectural Portfolio (The Proof of Logic)
+## 🏛️ Architectural Portfolio (The Proof of Logic)
 
 
-| **System** | **Design Goal** | **Impact** |
+
+| System | Design Goal | Impact |
 | :--- | :--- | :--- |
-| **[OmniIngest Engine](https://github.com/nisar46/OmniIngest-ABDM-2.0_Phase_0.1)** | **Format-Agnostic Ingestion** | Transforming fragmented clinical records into **HL7 FHIR R5** bundles and **Hardened 7-Pillar SQL Vaults**. |
-| **[Clinical Research Archive](https://github.com/nisar46/Healthcare-Data-Analysis-Journey)** | **Knowledge Governance** | A 5-year technical documentation of hospital workflows, ABDM logic, and interoperability design patterns. |
+| **OmniIngest** | Format-Agnostic | Transforming fragmented clinical records into HL7 FHIR |
 
 ---
 
-### 🛠️ The "Techno-Legal" Stack
-I architect systems built for **Zero Data-Loss** and **100% Regulatory Compliance**.
-
-
-| Category | Skillset |
-| :--- | :--- |
-| **Languages** | Python (Clinical Logic), SQL (Data Hardening) |
-| **Standards** | HL7 FHIR R5, ABDM 2.0, HIPAA |
-| **Governance** | DPDP Act (PII Purge & Key Shredding) |
-| **Cloud** | Microsoft Azure, AWS (Infrastructure Logic) |
-
-
-
-
-
----
-
-### 🏛️ My Design Philosophy: "Privacy-by-Design"
-*   **Data Integrity:** Moving fragmented "Dark Data" into secure, queryable standards (ABDM).
-*   **Governance:** Implementing **PII Purge logic** and cryptographic shredding as per India's **DPDP Act**.
-*   **Interoperability:** Designing systems that allow rural clinics to talk to global pharma registries.
-
----
-
-### 📊 Engineering Pulse
-![Nisar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisar46&show_icons=true&theme=radical&hide_border=true)
-
----
-
-### 💬 Let's Architect the Future of Health
-I bridge the gap between **Clinical Reality** and **Digital Transformation**.
-
-*   **Location:** Bangalore, India
-*   *   **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3](https://linkedin.com)
-*   **Email:** nisarr.aahmed@gmail.com
+* **Location:** Bangalore, India
+* **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3](https://linkedin.com)
+* **Email:** nisarr.aahmed@gmail.com
