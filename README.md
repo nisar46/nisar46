@@ -10,19 +10,20 @@ I am a Domain-First Data Analyst and Analytics Engineer. With 13+ years of clini
 
 ---
 
+
 ## 🚀 Pinned Master Platforms
 
 ### 1. OmniIngest Platform — Universal Ingestion Container & ABDM 2.0 Core
-- **ABDM 2.0 Engine Repository:** [https://github.com](https://github.com)
-- **Universal Container Repository:** [https://github.com](https://github.com)
+- **ABDM 2.0 Engine Repository:** https://github.com/nisar46/OmniIngest-Clinical-Engine
+- **Universal Container Repository:** https://github.com/nisar46/OmniIngest_Universal
 - **The Build:** Standardizes heterogeneous EHR payloads, 14-digit ABHA tokens, and explicit consent metadata strictly under DPDP Act mandates.
 - **Pipeline Scale:** Scaled into a 5-sector interoperability framework (Hospital, Pharma, Diagnostics, Insurance, Public Health) reducing manual cross-departmental data wrangling by 80%.
 - **Real-Time Layer:** Engineered an asynchronous FastAPI ingress webhook listener fortified with AES-256-CBC decryption for split-second floor transactions.
 - **Database Strategy:** Zero-bottleneck Hybrid Relational-JSON schema utilizing Polars LazyFrames to packing clinical variables into a single `payload_vault` column to mitigate 99.9% of database crashes.
 
 ### 2. Clinosyn Platform — Healthcare OS & Universal Conversational System
-- **Healthcare OS UI Repository:** [https://github.com](https://github.com)
-- **Universal Conversational Repository:** [https://github.com](https://github.com)
+- **Healthcare OS UI Repository:** https://github.com/nisar46/Clinosyn-Healthcare-OS
+- **Universal Conversational Repository:**  https://github.com/nisar46/Clinosyn_Universal
 - **The Build:** Offline, privacy-first Natural Language-to-SQL (NL-to-SQL) Generative RAG pipeline leveraging local Llama3 (via Ollama) to query historic ABDM tables and live multi-sector transaction vaults.
 - **Extraction Logic:** Executed native `json_extract()` querying algorithms to translate conversational prompts into optimized SQLite commands directly against unstructured payload vaults, eliminating cloud fees and hallucination risks.
 - **Interface Layer:** Streamlit-powered clinical operating terminal featuring real-time ingestion analytics, active patient PII masking arrays, and a validated 98.2% high-integrity FHIR pipeline processing success metric.
