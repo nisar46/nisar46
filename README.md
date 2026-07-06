@@ -46,5 +46,5 @@ I transition this clinical floor reality into structured product specifications.
 
 *   🌐 **Portfolio:** [nisar46.github.io/portfolio](https://nisar46.github.io/portfolio/)
 *   💼 **LinkedIn:** [linkedin.com/in/nisar-ahmed-8440763a3](https://www.linkedin.com/in/nisar-ahmed-8440763a3)
-*   📧 **Email:** nisarahmed@gmail.com
+*   📧 **Email:** nisarr.aahmed@gmail.com
 *   📱 **Contact:** +91 7019522735 · Bengaluru, India
